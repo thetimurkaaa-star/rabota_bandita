@@ -1,9 +1,0 @@
-{
-  "name": "rabota-bandita/telegram-bot",
-  "description": "Telegram bot Работа Бандита",
-  "require": {
-    "php": ">=8.2",
-    "ext-pdo_pgsql": "*",
-    "ext-curl": "*"
-  }
-}
